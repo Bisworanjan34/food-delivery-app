@@ -343,6 +343,33 @@
       "price": 150,
       "rating": 4.4,
       "category": "gulabjamun"
+    },
+    {
+      "id": "2",
+      "title": "chicken65 biryani",
+      "image": "https://tapcom-live.ams3.cdn.digitaloceanspaces.com/media/sharukhan/products/732674-placeholder6940.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 250,
+      "rating": 4.3,
+      "category": "biryani"
+    },
+    {
+      "id": "2",
+      "title": "chicken65 biryani",
+      "image": "https://tapcom-live.ams3.cdn.digitaloceanspaces.com/media/sharukhan/products/732674-placeholder6940.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 250,
+      "rating": 4.3,
+      "category": "biryani"
+    },
+    {
+      "id": "2",
+      "title": "chicken65 biryani",
+      "image": "https://tapcom-live.ams3.cdn.digitaloceanspaces.com/media/sharukhan/products/732674-placeholder6940.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 250,
+      "rating": 4.3,
+      "category": "biryani"
     }
   ],
   "wishlist": []

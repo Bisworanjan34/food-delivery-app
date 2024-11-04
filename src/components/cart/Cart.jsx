@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCircleMinus, faCirclePlus, faDumpster, faHome, faPlus, faTrash } from '@fortawesome/free-solid-svg-icons';
-import './Cart.css'
 import { useDispatch, useSelector } from 'react-redux';
 import { removeCart } from '../../redux/createSlice';
+import './Cart.css'
 const Cart = () => {
   const [count,setCount] = useState({});
   let dispatch=useDispatch()
