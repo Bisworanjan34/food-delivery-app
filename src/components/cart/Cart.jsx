@@ -1,13 +1,10 @@
-import axios from 'axios'
 import React, { useEffect, useState } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCircleMinus, faCirclePlus, faDumpster, faHome, faPlus, faTrash } from '@fortawesome/free-solid-svg-icons';
 import './Cart.css'
 import { useDispatch, useSelector } from 'react-redux';
 import { removeCart } from '../../redux/createSlice';
-import Login from '../../pages/login/Login';
 const Cart = () => {
-  // let [cart,setCart]=useState([])
   const [count,setCount] = useState({});
   let dispatch=useDispatch()
   let data = useSelector((s) => s.reducer1.cart)
@@ -17,14 +14,6 @@ useEffect(() => {
   setCart(data);
 }, [data]);
 
-
-  // useEffect(()=>{
-  //     axios.get('http://localhost:3000/cart')
-  //     .then((res)=>{setCart(res.data)})
-  // },[])
-
-
- 
   const addQuantity = (id) => {
     const item = cart.find((item) => (item.id) === id);
     if (item) {
