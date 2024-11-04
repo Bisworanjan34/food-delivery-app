@@ -1,0 +1,29 @@
+.cata-item-div{
+    height: 130px;
+    width: 100px;
+    /* border: 1px solid blue; */
+    
+}
+.cata-img{
+    height: 100px;
+    width: 100px;
+    background: white;
+    border-radius: 50%;
+    /* margin-bottom:3px; */
+}
+.cata-img img{
+    height: 100%;
+    width: 100%;
+    border: 10px solid white;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.cata-title{
+    text-align: center;
+}
+.cata-title p{
+    margin-top: -3px;
+}
+.cata-img:hover{
+    border: 2px solid salmon;
+}

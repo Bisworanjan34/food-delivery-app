@@ -1,0 +1,349 @@
+{
+  "food_items": [
+    {
+      "id": "1",
+      "title": "chicken biryani",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0w_ScFOzjAgCrSBAyT6Q1ZvJXd5nLisnh0w&s",
+      "description": "testy and delicious food only for you order now",
+      "price": 300,
+      "rating": 4.5,
+      "category": "biryani"
+    },
+    {
+      "id": "2",
+      "title": "chicken65 biryani",
+      "image": "https://tapcom-live.ams3.cdn.digitaloceanspaces.com/media/sharukhan/products/732674-placeholder6940.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 250,
+      "rating": 4.3,
+      "category": "biryani"
+    },
+    {
+      "id": "3",
+      "title": "paneer biryani",
+      "image": "https://www.chefkunalkapur.com/wp-content/uploads/2021/10/SRG_-CKK-Shoot-18_226-1300x867.jpg?v=1633580575",
+      "description": "testy and delicious food only for you order now",
+      "price": 350,
+      "rating": 5,
+      "category": "biryani"
+    },
+    {
+      "id": "4",
+      "title": "sahi paneer biryani",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFtNdPWilleJfonZjFqTNF9klmKAq6bRBHGw&s",
+      "description": "testy and delicious food only for you order now",
+      "price": 400,
+      "rating": 4.3,
+      "category": "biryani"
+    },
+    {
+      "id": "5",
+      "title": "mushroom biryani",
+      "image": "https://www.ticklingpalates.com/wp-content/uploads/2016/05/Kaalan-Biryani.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 370,
+      "rating": 4.5,
+      "category": "biryani"
+    },
+    {
+      "id": "6",
+      "title": "mushroom65 biryani",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRAdoTwEEkQTv4OEjcqSp17TtJHSQKEll3UA&s",
+      "description": "testy and delicious food only for you order now",
+      "price": 420,
+      "rating": 4.4,
+      "category": "biryani"
+    },
+    {
+      "id": "7",
+      "title": "gulab jamun",
+      "image": "https://talodfoods.com/cdn/shop/files/Gulab-Jamun-Creative_img_4f2bd570-4f11-4dba-8386-fa5a26392cd0.webp?v=1725262395&width=1500",
+      "description": "testy and delicious food only for you order now",
+      "price": 70,
+      "rating": 4.3,
+      "category": "gulabjamun"
+    },
+    {
+      "id": "8",
+      "title": "gulab jamun ice-cream biryani",
+      "image": "https://vismaifood.com/storage/app/uploads/public/558/130/b9b/thumb__700_0_0_0_auto.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 150,
+      "rating": 4.4,
+      "category": "gulabjamun"
+    },
+    {
+      "id": "9",
+      "title": "chicken pizaa",
+      "image": "https://mediavine-res.cloudinary.com/image/upload/s--_Kf5SiB---/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1685738865/xd52eg0tkuw1avg01bpo.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 399,
+      "rating": 3.9,
+      "category": "pizza"
+    },
+    {
+      "id": "10",
+      "title": "paneer pizaa",
+      "image": "https://foodoncall.co.in/wp-content/uploads/2017/10/chatpata-paneer-pizza.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 349,
+      "rating": 4.4,
+      "category": "pizza"
+    },
+    {
+      "id": "11",
+      "title": "gobi pakoda",
+      "image": "https://www.ticklingpalates.com/wp-content/uploads/2022/02/pattanam-pakoda-tea-kadai-medhu-pakoda.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 170,
+      "rating": 4.5,
+      "category": "pakoda"
+    },
+    {
+      "id": "12",
+      "title": "burgur",
+      "image": "https://content.jdmagicbox.com/comp/def_content/fast-food/6-fast-food-7-45kcu.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 200,
+      "rating": 4.4,
+      "category": "burger"
+    },
+    {
+      "id": "13",
+      "title": "egg fried rice",
+      "image": "https://www.kitchensanctuary.com/wp-content/uploads/2020/04/Chicken-Fried-Rice-square-FS-.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 140,
+      "rating": 4.5,
+      "category": "biryani"
+    },
+    {
+      "id": "14",
+      "title": "chicken noodles",
+      "image": "https://thebigmansworld.com/wp-content/uploads/2022/08/spicy-noodles-recipe-480x270.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 130,
+      "rating": 4.5,
+      "category": "biryani"
+    },
+    {
+      "id": "15",
+      "title": "french fries",
+      "image": "https://sausagemaker.com/wp-content/uploads/Homemade-French-Fries_8.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 175,
+      "rating": 4.4,
+      "category": "frenchfries"
+    },
+    {
+      "id": "16",
+      "title": "manchuriyan",
+      "image": "https://images.news18.com/ibnkhabar/uploads/2021/03/veg-manchurian.jpg?im=FitAndFill,width=1200,height=900",
+      "description": "testy and delicious food only for you order now",
+      "price": 160,
+      "rating": 4.3,
+      "category": "manchuriyan"
+    }
+  ],
+  "cart": [
+    {
+      "id": "5",
+      "title": "mushroom biryani",
+      "image": "https://www.ticklingpalates.com/wp-content/uploads/2016/05/Kaalan-Biryani.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 370,
+      "rating": 4.5
+    },
+    {
+      "id": "1",
+      "title": "chicken biryani",
+      "image": "https://lh6.googleusercontent.com/P72QA9sgfx-gr4Hr6p6ITvKQc9VKNZRAN7R0Hv4z5lQhLVrp0KGDZ1M0HWfkMmRlX9oORXUZP24euOeMggMDzDXQF2-HXBm2ax7PP5qvU3BOWJz97I9f-xjtzgLxih91NtydMHVxy18-h_gSt0dC4Q0",
+      "description": "testy and delicious food only for you order now",
+      "price": 300,
+      "rating": 4.5
+    },
+    {
+      "id": "3",
+      "title": "paneer biryani",
+      "image": "https://www.chefkunalkapur.com/wp-content/uploads/2021/10/SRG_-CKK-Shoot-18_226-1300x867.jpg?v=1633580575",
+      "description": "testy and delicious food only for you order now",
+      "price": 350,
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "title": "chicken65 biryani",
+      "image": "https://tapcom-live.ams3.cdn.digitaloceanspaces.com/media/sharukhan/products/732674-placeholder6940.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 250,
+      "rating": 4.3
+    },
+    {
+      "id": "5",
+      "title": "mushroom biryani",
+      "image": "https://www.ticklingpalates.com/wp-content/uploads/2016/05/Kaalan-Biryani.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 370,
+      "rating": 4.5
+    },
+    {
+      "id": "5",
+      "title": "mushroom biryani",
+      "image": "https://www.ticklingpalates.com/wp-content/uploads/2016/05/Kaalan-Biryani.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 370,
+      "rating": 4.5
+    },
+    {
+      "id": "1",
+      "title": "chicken biryani",
+      "image": "https://lh6.googleusercontent.com/P72QA9sgfx-gr4Hr6p6ITvKQc9VKNZRAN7R0Hv4z5lQhLVrp0KGDZ1M0HWfkMmRlX9oORXUZP24euOeMggMDzDXQF2-HXBm2ax7PP5qvU3BOWJz97I9f-xjtzgLxih91NtydMHVxy18-h_gSt0dC4Q0",
+      "description": "testy and delicious food only for you order now",
+      "price": 300,
+      "rating": 4.5
+    },
+    {
+      "id": "4",
+      "title": "sahi paneer biryani",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFtNdPWilleJfonZjFqTNF9klmKAq6bRBHGw&s",
+      "description": "testy and delicious food only for you order now",
+      "price": 400,
+      "rating": 4.3
+    },
+    {
+      "id": "7",
+      "title": "gulab jamun",
+      "image": "https://talodfoods.com/cdn/shop/files/Gulab-Jamun-Creative_img_4f2bd570-4f11-4dba-8386-fa5a26392cd0.webp?v=1725262395&width=1500",
+      "description": "testy and delicious food only for you order now",
+      "price": 70,
+      "rating": 4.3
+    },
+    {
+      "id": "1",
+      "title": "chicken biryani",
+      "image": "https://lh6.googleusercontent.com/P72QA9sgfx-gr4Hr6p6ITvKQc9VKNZRAN7R0Hv4z5lQhLVrp0KGDZ1M0HWfkMmRlX9oORXUZP24euOeMggMDzDXQF2-HXBm2ax7PP5qvU3BOWJz97I9f-xjtzgLxih91NtydMHVxy18-h_gSt0dC4Q0",
+      "description": "testy and delicious food only for you order now",
+      "price": 300,
+      "rating": 4.5,
+      "category": "biryani"
+    },
+    {
+      "id": "2",
+      "title": "chicken65 biryani",
+      "image": "https://tapcom-live.ams3.cdn.digitaloceanspaces.com/media/sharukhan/products/732674-placeholder6940.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 250,
+      "rating": 4.3,
+      "category": "biryani"
+    },
+    {
+      "id": "1",
+      "title": "chicken biryani",
+      "image": "https://lh6.googleusercontent.com/P72QA9sgfx-gr4Hr6p6ITvKQc9VKNZRAN7R0Hv4z5lQhLVrp0KGDZ1M0HWfkMmRlX9oORXUZP24euOeMggMDzDXQF2-HXBm2ax7PP5qvU3BOWJz97I9f-xjtzgLxih91NtydMHVxy18-h_gSt0dC4Q0",
+      "description": "testy and delicious food only for you order now",
+      "price": 300,
+      "rating": 4.5,
+      "category": "biryani"
+    },
+    {
+      "id": "1",
+      "title": "chicken biryani",
+      "image": "https://lh6.googleusercontent.com/P72QA9sgfx-gr4Hr6p6ITvKQc9VKNZRAN7R0Hv4z5lQhLVrp0KGDZ1M0HWfkMmRlX9oORXUZP24euOeMggMDzDXQF2-HXBm2ax7PP5qvU3BOWJz97I9f-xjtzgLxih91NtydMHVxy18-h_gSt0dC4Q0",
+      "description": "testy and delicious food only for you order now",
+      "price": 300,
+      "rating": 4.5,
+      "category": "biryani"
+    },
+    {
+      "id": "2",
+      "title": "chicken65 biryani",
+      "image": "https://tapcom-live.ams3.cdn.digitaloceanspaces.com/media/sharukhan/products/732674-placeholder6940.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 250,
+      "rating": 4.3,
+      "category": "biryani"
+    },
+    {
+      "id": "2",
+      "title": "chicken65 biryani",
+      "image": "https://tapcom-live.ams3.cdn.digitaloceanspaces.com/media/sharukhan/products/732674-placeholder6940.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 250,
+      "rating": 4.3,
+      "category": "biryani"
+    },
+    {
+      "id": "2",
+      "title": "chicken65 biryani",
+      "image": "https://tapcom-live.ams3.cdn.digitaloceanspaces.com/media/sharukhan/products/732674-placeholder6940.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 250,
+      "rating": 4.3,
+      "category": "biryani"
+    },
+    {
+      "id": "2",
+      "title": "chicken65 biryani",
+      "image": "https://tapcom-live.ams3.cdn.digitaloceanspaces.com/media/sharukhan/products/732674-placeholder6940.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 250,
+      "rating": 4.3,
+      "category": "biryani"
+    },
+    {
+      "id": "2",
+      "title": "chicken65 biryani",
+      "image": "https://tapcom-live.ams3.cdn.digitaloceanspaces.com/media/sharukhan/products/732674-placeholder6940.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 250,
+      "rating": 4.3,
+      "category": "biryani"
+    },
+    {
+      "id": "2",
+      "title": "chicken65 biryani",
+      "image": "https://tapcom-live.ams3.cdn.digitaloceanspaces.com/media/sharukhan/products/732674-placeholder6940.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 250,
+      "rating": 4.3,
+      "category": "biryani"
+    },
+    {
+      "id": "3",
+      "title": "paneer biryani",
+      "image": "https://www.chefkunalkapur.com/wp-content/uploads/2021/10/SRG_-CKK-Shoot-18_226-1300x867.jpg?v=1633580575",
+      "description": "testy and delicious food only for you order now",
+      "price": 350,
+      "rating": 5,
+      "category": "biryani"
+    },
+    {
+      "id": "3",
+      "title": "paneer biryani",
+      "image": "https://www.chefkunalkapur.com/wp-content/uploads/2021/10/SRG_-CKK-Shoot-18_226-1300x867.jpg?v=1633580575",
+      "description": "testy and delicious food only for you order now",
+      "price": 350,
+      "rating": 5,
+      "category": "biryani"
+    },
+    {
+      "id": "15",
+      "title": "french fries",
+      "image": "https://sausagemaker.com/wp-content/uploads/Homemade-French-Fries_8.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 175,
+      "rating": 4.4,
+      "category": "frenchfries"
+    },
+    {
+      "id": "8",
+      "title": "gulab jamun ice-cream biryani",
+      "image": "https://vismaifood.com/storage/app/uploads/public/558/130/b9b/thumb__700_0_0_0_auto.jpg",
+      "description": "testy and delicious food only for you order now",
+      "price": 150,
+      "rating": 4.4,
+      "category": "gulabjamun"
+    }
+  ],
+  "wishlist": []
+}

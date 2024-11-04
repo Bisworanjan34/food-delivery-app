@@ -1,0 +1,11 @@
+.category-main{
+    display: flex;
+    background: white;
+    height: 140px;
+    width: 90%;
+    margin: auto;
+    justify-content: center;
+    gap: 2.3rem;
+    padding-top: 6px;
+    padding-bottom: 10px;
+}

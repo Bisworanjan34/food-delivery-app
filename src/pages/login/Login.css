@@ -1,0 +1,157 @@
+.login-div{
+   box-shadow: 0 0 3px rgb(8, 185, 2);
+   border-top: 10px solid rgb(0, 171, 0);
+    width: 450px;
+    height: 350px;
+    margin:2rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    transition: all 0.6s ease-in-out;
+    position: relative;
+    /* animation: login 0.6s linear infinite; */
+}
+/* @keyframes login{
+    0%{
+        border-top: 10px solid rgb(0, 171, 0);
+        border-left: 3px solid rgb(255, 98, 0);
+        border-right: 3px solid rgb(0, 32, 236);
+        border-bottom: 3px solid rgb(243, 0, 226);
+      
+    }
+    50%{
+        border-left: 3px solid rgb(0, 171, 0);
+        border-top: 10px solid rgb(255, 98, 0);
+        border-bottom: 3px solid rgb(0, 32, 236);
+        border-right: 3px solid rgb(243, 0, 226);
+       
+    }
+    100%{
+        border-top: 10px solid rgb(0, 171, 0);
+        border-left: 3px solid rgb(255, 98, 0);
+        border-right: 3px solid rgb(0, 32, 236);
+        border-bottom: 3px solid rgb(243, 0, 226);
+     
+    }
+} */
+.login-toggle-div{
+    position: absolute;
+    top:1rem;right: 10px;
+    /* border: 1px solid green; */
+    height: 18px;
+    width: 50px;
+    border-radius: 13px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    background: rgba(174, 250, 176, 0.683);
+    border: 1px solid;
+}
+.login-toggle{
+    height: 18px;
+    width: 18px;
+    background: rgb(181, 181, 181);
+    border-radius: 50%;
+    transition: all 0.5s ease-in-out;
+    border: 3px solid white;
+}
+.active {
+    background-color: black;
+}
+.active .login-title h4{
+    color: white;
+}
+.active .login-input input[type='text']{
+    background-color: transparent;
+    color: white;
+    border-bottom: 1px solid rgb(0, 181, 6);
+}
+.active .check-mark{color: rgb(12, 184, 0);}
+
+.active .login-toggle-div {
+    background-color: rgb(1, 199, 1);
+}
+.active .login-toggle{
+    background: white;
+    margin-left: 30px;
+    
+}
+
+
+.login-title{
+    text-align: center;
+}
+.login-title h4{
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(0, 184, 0);
+}
+.login-input input[type='text']{
+    width: 300px;
+    height: 40px;
+    margin: 5px 0;
+    background-color: white;
+    border: 1px solid black;
+    color: rgb(0, 173, 3);
+    /* border: none; */
+}
+
+
+  
+.login-input ::placeholder{
+    font-size: 14px;
+  text-align: center;
+}
+.login-input input:focus {
+    outline: 1px solid rgb(21, 255, 0);
+    /* background-color: rgb(0, 0, 0); */
+  }
+  .login-input p{
+    font-size: 12px;
+    color: green;
+  }
+  .login-input input:focus p{
+    margin-top: 2rem;
+   
+  }
+  
+.check-mark{
+    color: green;
+    font-size: 14px;
+    /* margin: 5px 0; */
+}
+.check-mark input{
+    color: white;
+    margin-right: 6px;
+}
+.login-btn{
+    text-align: center;
+}
+.login-btn button{
+    margin-top: 10px;
+    background-color:rgb(0, 177, 0);
+    height: 40px;
+    width: 100%;
+    /* border-radius: 5px; */
+    border: none;
+    animation: loginbtn 2.0s linear infinite;
+
+}
+@keyframes loginbtn{
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(0.95);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+.login-btn button:hover {
+    background-color: rgb(0, 117, 0);
+    color: white;
+}
+.check-loginbtn-div{
+   margin-top: 1.5rem;
+}

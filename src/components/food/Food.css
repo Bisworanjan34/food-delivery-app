@@ -1,0 +1,52 @@
+.food-main{
+    gap: 20px;
+    justify-content: space-evenly;
+    width: 90%;margin: auto;
+    padding: 2.3rem 0;
+
+}
+.food-banner {
+    width: 90%;
+    height: 230px;
+    display: flex;
+    justify-content: space-between;
+    /* background-image: linear-gradient(to top,rgb(50, 186, 0),rgb(247, 247, 247)); */
+    background-color: white;
+    padding: 10px;
+    align-items: center;
+    margin: 10px auto;
+    color: rgb(1, 165, 12);
+}
+.food-banner .img1{
+    height: 90%;
+    width: 40%;
+    object-fit: cover;
+    object-position: center;
+}
+.food-banner .img2{
+    height: 90%;
+    transform: rotatey(180deg);
+    object-fit: cover;
+    object-position: center;
+    margin-right: 6rem;
+}
+.offer-div h2{
+    font-weight: bold;
+    font-family:arial;
+    text-transform: capitalize;
+
+}
+.offer-div h3{
+    font-weight: bold;
+    font-family: arial;
+
+}
+.shopbtn{
+  border: none;
+  background-color: rgb(255, 110, 43);
+  padding: 7px 25px;
+  border-radius: 16px;
+  font-size: 13px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}

@@ -1,0 +1,131 @@
+/* .home-main{
+    background-image: url(../../assets/img2.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    z-index: 1;
+}
+.home-main::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    height: 100%;width: 100%;
+    background: rgba(0, 0, 0, 0.244);
+    z-index:-1;
+} */
+.home-title h1{
+    font-weight: bolder;
+    font-size: 2.6rem;
+  
+}
+
+.home-title{
+    /* border: 1px solid red; */
+    height: fit-content;
+    
+}
+.home-t-main{
+    /* background: rgb(182, 186, 182); */
+    width: 90%;
+    display: flex;
+    /* position: relative; */
+    
+}
+.home-order-btn{
+    /* padding: 20px 0px; */
+    position: relative;
+    overflow: hidden;
+    /* border: 1px solid blue; */
+    border-radius: 25px;
+    display: inline-block;
+}
+.home-anim{
+    position: absolute;
+    height: 19px;
+    width: 80px;
+     background-color: rgb(255, 255, 255);
+     /* border: 1px solid white; */
+     box-shadow: 0 0 15px 8px white;
+    top: 1rem; left: -3.8rem;
+    rotate: -75deg;
+    animation: homeanim 2.0s linear infinite;
+}
+@keyframes homeanim {
+    from{
+        left: -3.7rem;
+    }
+    to{
+        left: 9rem;
+    }
+}
+.home-order-btn button{
+    padding: 11px 33px;
+    border-radius: 25px;
+    /* background-color: rgb(231, 93, 0); */
+    background-color: rgb(28, 154, 0);
+    border: none;
+}
+.home-title{
+    transform: translatey(3rem);
+}
+.home-title h5{
+    font-size: 16px;
+    /* font-weight: normal; */
+    letter-spacing: 0.3px;
+    word-spacing: 1px;
+}
+.home-img{
+    /* border: 1px solid red; */
+    height: 70%;
+    transform: translateY(3rem);
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    position: relative;
+  
+}
+.home-img img{
+    border-radius: 50%;
+    height: 480px;
+    width: 560px;
+    /* rotate: 90deg; */
+    margin-top: 1rem;
+    transition: all 0.6s ease-in-out;
+    /* border: 1px solid red; */
+}
+.home-img img:hover{
+    transform: translatex(-30px);
+}
+.Q-delivery {
+    background-color: white;
+    border-radius: 25px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+.salat-img{
+    position: absolute;
+    bottom: 5rem;
+    right: 0;
+    top: 16rem;
+    height: 150px;
+    width: 150px;
+    /* border: 1px solid blue; */
+    /* background-color: red; */
+}
+.salat-img img{
+    height: 120px;
+   
+}
+.salat-img2{
+    position: absolute;
+    bottom: 5rem;
+    right: 3rem;
+    top: -1rem;
+    height: 150px;
+    width: 150px;
+}
+.salat-img2 img{
+    height: 180px;
+   
+}

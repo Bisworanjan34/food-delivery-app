@@ -1,0 +1,6 @@
+.cart-main{
+    height: 495px;
+    /* background-color: rgb(254, 252, 184); */
+    overflow: scroll;
+    scrollbar-width: none;
+}
